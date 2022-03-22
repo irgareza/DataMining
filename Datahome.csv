@@ -1,0 +1,11 @@
+Country,Age,Salary,Purchased
+Italy,42,71000,No
+Jerman,25,45000,Yes
+Swedia,33,56000,No
+Italy,39,63000,No
+Jerman,44,,Yes
+Swedia,37,52000,Yes
+Italy,,59000,No
+Jerman,49,77000,Yes
+Swedia,54,88000,No
+Jerman,38,65000,Yes
